@@ -9,3 +9,5 @@ Utitised back-end: Node.js, Express, PostgreSQL, bcrypt.
 [Front-End Repo](https://github.com/epletnev/face-recognition-brain)
 
 [Demo](https://my-smart-face-app.herokuapp.com/)
+
+![project4](https://user-images.githubusercontent.com/57327617/129597847-3fad73b8-1add-4735-9c63-e9aaaacf3e64.jpeg)
